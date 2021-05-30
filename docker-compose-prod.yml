@@ -28,7 +28,7 @@ services:
         environment:
             MYSQL_ROOT_PASSWORD: qC4<YS\'6PWx!":nVPuQ
             MYSQL_DATABASE: bnse
-            MYSQL_USER: bnse_user
+            MYSQL_USER: root
             MYSQL_PASSWORD: Ga$VzwA@9S4k$QL%pd+M
             MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
         volumes:
